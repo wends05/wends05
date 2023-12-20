@@ -4,6 +4,7 @@
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
+  - low
 
 <!---
 wends05/wends05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
