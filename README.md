@@ -6,11 +6,11 @@
 - 🌱 I’m currently learning the following:
   - Javascript
   - React + Typescript
-  - Godot + C#
+  - Godot, GDScript + C#
   - Python (University)
 
 - I'll be learning the following soon:
-  - 
+  - Unity Game Engine
 
 <!---
 wends05/wends05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
