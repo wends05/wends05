@@ -3,8 +3,14 @@
 - I am a Software Engineering student @ Central Philippine University
 
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-  - low
+- 🌱 I’m currently learning the following:
+-   Javascript
+  - React + Typescript
+  - Godot + C#
+  - Python (University)
+
+- I'll be learning the following soon:
+  - 
 
 <!---
 wends05/wends05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
