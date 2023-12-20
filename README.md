@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning the following:
--   Javascript
+  - Javascript
   - React + Typescript
   - Godot + C#
   - Python (University)
