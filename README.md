@@ -10,7 +10,8 @@
   - Python (University)
 
 - I'll be learning the following soon:
-  - Unity Game Engine
+  - Common modules used currently for SPAs
+  - Backend
 
 <!---
 wends05/wends05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
