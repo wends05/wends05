@@ -4,14 +4,11 @@
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning the following:
-  - Javascript
-  - React + Typescript
+  - NextJs + Typescript
   - Godot, GDScript + C#
+  - Flutter + React Native
   - Python (University)
 
-- I'll be learning the following soon:
-  - Common modules used currently for SPAs
-  - Backend
 
 <!---
 wends05/wends05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
