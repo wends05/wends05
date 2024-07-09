@@ -1,24 +1,25 @@
-👋 Hi, I’m @wends05
-  -
+# 👋 Hi, I’m @wends05
 
 I am a Software Engineering Student @ Central Philippine University.
-
 
 - 👀 I’m interested in ...
   - How stuff works behind the scenes 
   - Redstone 
 
-  
-
-
-
 - 🌱 I’m currently learning the following:
-  - Nextjs + Typescript
-  - Godot Engine and Unity, GDScript + C#
-  - Flutter + React Native
-  - Python (for University)
+  - Web
+    - Nextjs + Typescript
+  - Game
+    - Godot Engine and Unity, GDScript + C#
+  - Mobile
+    - Flutter + React Native
+  -University
+    - Python
+    - Project Management
 
-Might learn Golang and Rust. I heard they're nice
+---
+
+for future goals i want to be a swift developer
 
 
 
