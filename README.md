@@ -13,9 +13,8 @@ I am a Software Engineering Student @ Central Philippine University.
     - Godot Engine and Unity, GDScript + C#
   - Mobile
     - Flutter + React Native
-  -University
+  - University
     - Python
-    - Project Management
 
 ---
 
