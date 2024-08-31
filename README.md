@@ -14,7 +14,7 @@ I am a Software Engineering Student @ Central Philippine University.
   - Mobile
     - Flutter + React Native
   - University
-    - Python
+    - Python, Scala
 
 ---
 
