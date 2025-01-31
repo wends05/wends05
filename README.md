@@ -8,13 +8,16 @@ I am a Software Engineering Student @ Central Philippine University.
 
 - 🌱 I’m currently learning the following:
   - Web
-    - Nextjs + Typescript
+    - Nextjs
+    - Deno
+    - SvelteKit
   - Game
-    - Godot Engine and Unity, GDScript + C#
+    - Godot Engine
   - Mobile
-    - Flutter + React Native
+    - Expo
   - University
-    - Python, Scala
+    - Python
+    - Typescript
 
 ---
 
