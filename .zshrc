@@ -1,0 +1,8 @@
+alias gpull='git pull'
+alias gpush='git push'
+alias gc='git commit'
+alias gs='git switch'
+alias copypath='pwd | pbcopy'
+alias c='clear'
+alias l='ls -l'
+alias ll='ls -la'
