@@ -15,6 +15,7 @@ I am a Software Engineering Student @ Central Philippine University.
     - Godot Engine
   - Mobile
     - Expo
+    - Swift
   - University
     - Python
     - Typescript
