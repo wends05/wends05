@@ -3,20 +3,23 @@
 I am a Software Engineering Student @ Central Philippine University.
 
 - 👀 I’m interested in ...
-  - How stuff works behind the scenes 
-  - Redstone 
+  - How stuff works behind the scenes
 
 - 🌱 I’m currently learning the following:
-  - Web
+  - Web development
     - Nextjs
-    - Deno
-  - Game
+    - Tanstack Start (And the Tanstack ecosystem)
+  - Game Engine
     - Godot Engine
-  - Mobile
+  - Mobile Development
     - Expo
-  - University
+  - University Requirements
     - Python
     - Typescript
+  - Backend
+    - Postgres (+ Supabase)
+    - Mongodb
+    - Prisma
 
 ---
 
