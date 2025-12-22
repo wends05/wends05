@@ -2,28 +2,21 @@
 
 I am a Software Engineering Student @ Central Philippine University.
 
-- 👀 I’m interested in ...
-  - How stuff works behind the scenes
-
-- 🌱 I’m currently learning the following:
-  - Web development
-    - Nextjs
-    - Tanstack Start (And the Tanstack ecosystem)
-  - Game Engine
-    - Godot Engine
-  - Mobile Development
-    - Expo
-  - University Requirements
-    - Python
-    - Typescript
-  - Backend
-    - Postgres (+ Supabase)
-    - Mongodb
-    - Prisma
+### Tech Stack
+- Languages: TypeScript, Python, GDScript
+- Front-end: Next.js (App), Tanstack Start, Tailwind
+- Mobile: Expo, Flutter
+- Back-end: Bun, Supabase, Convex
+- Tools: Git, Bun
+- Databases: PostgreSQL, MongoDB, Firebase
 
 ---
 
-for future goals i want to be a swift developer
+for future goals i want to be a swift developer.
+
+I'm currently exploring the following:
+- Tanstack Start (and other Packages)
+- Docker
 
 
 
