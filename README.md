@@ -4,7 +4,7 @@ I am a Software Engineering Student @ Central Philippine University.
 
 ### Tech Stack
 - Languages: TypeScript, Python, GDScript
-- Front-end: Next.js (App), Tanstack Start, Tailwind
+- Front-end: Next.js (App), Tanstack Start, Tailwind, shadcn/ui
 - Mobile: Expo, Flutter
 - Back-end: Bun, Supabase, Convex
 - Tools: Git, Bun
@@ -15,7 +15,9 @@ I am a Software Engineering Student @ Central Philippine University.
 for future goals i want to be a swift developer.
 
 I'm currently exploring the following:
-- Tanstack Start (and other Packages)
+- Next.js Cache Components
+- Tanstack Start
+- Turborepo
 - Docker
 
 
