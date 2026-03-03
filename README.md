@@ -4,15 +4,15 @@ I am a Software Engineering Student @ Central Philippine University.
 
 ### Tech Stack
 - Languages: TypeScript, Python, GDScript
-- Front-end: Next.js (App), Tanstack Start, Tailwind, shadcn/ui
+- Frontend: Next.js (App), Tanstack Start, Tailwind, shadcn/ui
 - Mobile: Expo, Flutter
-- Back-end: Bun, Supabase, Convex
-- Tools: Git, Bun
+- Backend: Bun, Supabase, Convex
+- Tools: Git, Bun, Copilot, Opencode
 - Databases: PostgreSQL, MongoDB, Firebase
 
 ---
 
-for future goals i want to be a swift developer.
+for future goals i want to be a swift developer and develop backend in Go
 
 I'm currently exploring the following:
 - Next.js Cache Components
