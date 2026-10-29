@@ -1,14 +1,14 @@
-# 👋 Hi, I’m @wends05
+# 👋 Hi, I’m rence
 
-I am a Software Engineering Student @ Central Philippine University.
+I am a 4th Year Software Engineering Student @ Central Philippine University.
 
 Current IDE: Zed
 
 ### Tech Stack
-- Languages: TypeScript, Python, GDScript
-- Frontend: Next.js (App, Cache Components), Tanstack Start (and other libraries), Tailwind, shadcn/ui
+- Languages: TypeScript, Python, GDScript, Go
+- Frontend (Web): Next.js, TanStack Start (and other TanStack libraries), Tailwind, shadcn/ui, zustand
 - Mobile: Expo, Flutter
-- Backend: Supabase, Convex, Express, NestJs, Hono
+- Backend: Supabase, Neon, Express, NestJs, Hono
 - Tools: Git, Bun, Copilot, Opencode, Docker
 - Databases: PostgreSQL, MongoDB, Firebase
 - Others: Turborepo
@@ -16,10 +16,11 @@ Current IDE: Zed
 
 ---
 
-for future goals i want to be a swift developer and develop backend in Go
+for future goals i want to be a swift developer and develop backends in Go, looking into Rust as well
 
 I'm currently exploring the following:
 - Cloudflare Workers, R2, KV
+- integrating ai into applications, rather than just developer workflows
 
 
 <!---
